@@ -1,0 +1,4 @@
+discord.py
+dotenv
+oauth2client
+gspread
